@@ -17,7 +17,8 @@ import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
 
 import listeners.*;
-import parser.StoreServerState;
+import parser.StoreServerStateData;
+import parser.readServerStateData;
 import processors.*;
 import utilities.FileInfo;
 import workers.Worker;
@@ -170,7 +171,9 @@ public class Peer implements Service {
             startListeners(peer);
             startWorkers(queue);
             
-            executor.scheduleAtFixedRate(new StoreServerState(peer), 1, 1, TimeUnit.SECONDS);
+            new readServerStateData(peer).run();
+            
+            executor.scheduleAtFixedRate(new StoreServerStateData(peer), 1, 1, TimeUnit.SECONDS);
 
             System.out.println("Server ready");
         } catch (Exception e) {

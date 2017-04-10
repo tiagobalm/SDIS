@@ -1,2 +1,2 @@
-java main.Peer 1.0 1 initiatorpeer 225.0.0.0 4445 225.0.0.1 4445 225.0.0.2 4445
+java main.Peer 1.0 1 initiatorpeer 225.0.0.0 4445 225.0.0.1 4446 225.0.0.2 4447
 java main.Client initiatorpeer BACKUP team.png 1

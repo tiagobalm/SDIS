@@ -6,11 +6,11 @@ import java.util.Enumeration;
 
 import main.Peer;
 
-public class StoreServerState implements Runnable {
+public class StoreServerStateData implements Runnable {
 	
 	private Peer peer;
 	
-	public StoreServerState(Peer peer) {
+	public StoreServerStateData(Peer peer) {
 		this.peer = peer;
 	}
 
@@ -29,6 +29,8 @@ public class StoreServerState implements Runnable {
 		    	
 		    	if(this.peer.getRecords().get(fileID).getFilePath() != null)
 		    		writer.println("  FilePath: " + this.peer.getRecords().get(fileID).getFilePath().toString());
+		    	else
+		    		writer.println("  FilePath: ");
 		    	writer.println("  Server who initiated the backup: " + this.peer.getRecords().get(fileID).getServerID());
 		    	writer.println("  Desired Replication Degree: " + this.peer.getRecords().get(fileID).getReplicationDegree());
 		    	

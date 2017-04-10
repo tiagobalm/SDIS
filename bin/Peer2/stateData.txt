@@ -1,0 +1,134 @@
+File ID: 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6
+  FilePath: 
+  Server who initiated the backup: 1
+  Desired Replication Degree: 1
+    Chunk #22
+      Chunk Size: 64000
+      Perceived Replication Degree: 2
+        Stored Message: STORED 1.0 2 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 22
+        Stored Message: STORED 1.0 3 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 22
+    Chunk #23
+      Chunk Size: 64000
+      Perceived Replication Degree: 2
+        Stored Message: STORED 1.0 3 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 23
+        Stored Message: STORED 1.0 2 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 23
+    Chunk #24
+      Chunk Size: 64000
+      Perceived Replication Degree: 2
+        Stored Message: STORED 1.0 3 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 24
+        Stored Message: STORED 1.0 2 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 24
+    Chunk #25
+      Chunk Size: 41525
+      Perceived Replication Degree: 2
+        Stored Message: STORED 1.0 2 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 25
+        Stored Message: STORED 1.0 3 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 25
+    Chunk #10
+      Chunk Size: 64000
+      Perceived Replication Degree: 2
+        Stored Message: STORED 1.0 3 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 10
+        Stored Message: STORED 1.0 2 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 10
+    Chunk #11
+      Chunk Size: 64000
+      Perceived Replication Degree: 2
+        Stored Message: STORED 1.0 2 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 11
+        Stored Message: STORED 1.0 3 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 11
+    Chunk #12
+      Chunk Size: 64000
+      Perceived Replication Degree: 2
+        Stored Message: STORED 1.0 3 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 12
+        Stored Message: STORED 1.0 2 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 12
+    Chunk #13
+      Chunk Size: 64000
+      Perceived Replication Degree: 2
+        Stored Message: STORED 1.0 2 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 13
+        Stored Message: STORED 1.0 3 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 13
+    Chunk #14
+      Chunk Size: 64000
+      Perceived Replication Degree: 2
+        Stored Message: STORED 1.0 2 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 14
+        Stored Message: STORED 1.0 3 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 14
+    Chunk #15
+      Chunk Size: 64000
+      Perceived Replication Degree: 2
+        Stored Message: STORED 1.0 2 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 15
+        Stored Message: STORED 1.0 3 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 15
+    Chunk #16
+      Chunk Size: 64000
+      Perceived Replication Degree: 2
+        Stored Message: STORED 1.0 3 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 16
+        Stored Message: STORED 1.0 2 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 16
+    Chunk #17
+      Chunk Size: 64000
+      Perceived Replication Degree: 2
+        Stored Message: STORED 1.0 3 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 17
+        Stored Message: STORED 1.0 2 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 17
+    Chunk #18
+      Chunk Size: 64000
+      Perceived Replication Degree: 2
+        Stored Message: STORED 1.0 2 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 18
+        Stored Message: STORED 1.0 3 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 18
+    Chunk #19
+      Chunk Size: 64000
+      Perceived Replication Degree: 2
+        Stored Message: STORED 1.0 3 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 19
+        Stored Message: STORED 1.0 2 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 19
+    Chunk #0
+      Chunk Size: 64000
+      Perceived Replication Degree: 2
+        Stored Message: STORED 1.0 3 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 0
+        Stored Message: STORED 1.0 2 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 0
+    Chunk #1
+      Chunk Size: 64000
+      Perceived Replication Degree: 2
+        Stored Message: STORED 1.0 3 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 1
+        Stored Message: STORED 1.0 2 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 1
+    Chunk #2
+      Chunk Size: 64000
+      Perceived Replication Degree: 2
+        Stored Message: STORED 1.0 3 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 2
+        Stored Message: STORED 1.0 2 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 2
+    Chunk #3
+      Chunk Size: 64000
+      Perceived Replication Degree: 2
+        Stored Message: STORED 1.0 2 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 3
+        Stored Message: STORED 1.0 3 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 3
+    Chunk #4
+      Chunk Size: 64000
+      Perceived Replication Degree: 2
+        Stored Message: STORED 1.0 2 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 4
+        Stored Message: STORED 1.0 3 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 4
+    Chunk #5
+      Chunk Size: 64000
+      Perceived Replication Degree: 2
+        Stored Message: STORED 1.0 3 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 5
+        Stored Message: STORED 1.0 2 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 5
+    Chunk #6
+      Chunk Size: 64000
+      Perceived Replication Degree: 2
+        Stored Message: STORED 1.0 2 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 6
+        Stored Message: STORED 1.0 3 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 6
+    Chunk #7
+      Chunk Size: 64000
+      Perceived Replication Degree: 2
+        Stored Message: STORED 1.0 3 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 7
+        Stored Message: STORED 1.0 2 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 7
+    Chunk #8
+      Chunk Size: 64000
+      Perceived Replication Degree: 2
+        Stored Message: STORED 1.0 3 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 8
+        Stored Message: STORED 1.0 2 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 8
+    Chunk #9
+      Chunk Size: 64000
+      Perceived Replication Degree: 2
+        Stored Message: STORED 1.0 3 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 9
+        Stored Message: STORED 1.0 2 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 9
+    Chunk #20
+      Chunk Size: 64000
+      Perceived Replication Degree: 2
+        Stored Message: STORED 1.0 2 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 20
+        Stored Message: STORED 1.0 3 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 20
+    Chunk #21
+      Chunk Size: 64000
+      Perceived Replication Degree: 2
+        Stored Message: STORED 1.0 2 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 21
+        Stored Message: STORED 1.0 3 66bcc55bf934a7105e2ca05c2d168fccf5bdd9c6c175b7230d250364db0b3eb6 21
